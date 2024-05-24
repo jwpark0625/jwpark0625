@@ -1,13 +1,13 @@
 ### Welcome
-프로필 공사중...
+우리 깃허브 정상영업 합니다🔨
 
-🔨 I’m currently working on Winitech <br>
-🌱 I’m currently learning Rest Api / Spring / Oracle DB / JavaScript
-
+<!-- 
+임시로 가려둠
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwpark0625&show_icons=true&theme=tokyonight&layout=compact&locale=kr)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwpark0625&show_icons=true&theme=tokyonight&layout=compact&locale=kr)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 [![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-6495ED?logo=Github)](https://jwpark0625.github.io/)
 [![Followers](https://img.shields.io/github/followers/jwpark0625)](https://github.com/jwpark0625?tab=followers)
