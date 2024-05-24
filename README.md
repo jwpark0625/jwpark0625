@@ -12,9 +12,7 @@
 [![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-6495ED?logo=Github)](https://jwpark0625.github.io/)
 [![Followers](https://img.shields.io/github/followers/jwpark0625)](https://github.com/jwpark0625?tab=followers)
 [![Stars](https://img.shields.io/github/stars/jwpark0625)](https://github.com/jwpark0625?tab=stars)
-
-<!-- 클릭해도 새 창이 열리지 않도록 HTML로 작성 -->
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjwpark0625%2Fhit-counter" alt="Hits" style="pointer-events: none;">
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjwpark0625%2Fhit-counter)
 
 
 
